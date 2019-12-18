@@ -1,3 +1,4 @@
+<?php
 for($i=0;$i<100;$i++)
 {
 	$ch = curl_init('https://ykt.ru');
